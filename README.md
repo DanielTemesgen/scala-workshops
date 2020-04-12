@@ -1,5 +1,5 @@
 A repo to put things whilst I learn Scala. <br>
-Once I learn enough to feel really confortable this is where I'll put Scala workshops, in a similar manner to Python.
+Once I learn enough this is where I'll put Scala workshops, in a similar manner to Python.
 
 
 ### All Workshops
