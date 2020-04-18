@@ -4,3 +4,7 @@ Once I learn enough this is where I'll put Scala workshops, in a similar manner 
 
 ### All Workshops
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanielTemesgen/scala-workshops/master?urlpath=lab)
+
+### Useful links
+* [Scala docs](https://docs.scala-lang.org/tour/tour-of-scala.html)
+* [Scala cheatsheet](https://docs.scala-lang.org/cheatsheets/index.html)
